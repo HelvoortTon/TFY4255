@@ -15,4 +15,4 @@
 
 
 
-3.	The link to the GitHub page where the Jupyter Notebook files and other data can be downloaded:  https://github.com/HelvoortTon/TFY4255-lab2
+3.	Alternative: The link to the GitHub page where the Jupyter Notebook files and other data can be downloaded from:  https://github.com/HelvoortTon/TFY4255-lab2
